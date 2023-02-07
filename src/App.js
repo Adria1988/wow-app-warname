@@ -26,6 +26,7 @@ const ClassSelector = () => {
     'Hunter',
     'Rogue'
   ];
+  
 
   const specOptions =  selectedClass === 'Druid'
     ? ['Feral', 'Restoration','Balance','Tank']
